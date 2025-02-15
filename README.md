@@ -85,6 +85,13 @@ ________________________________________
 # Key Insights on Attrition:
 ![Attrition Report1](https://github.com/user-attachments/assets/fa1905fd-3325-41b7-b78f-0bd162191ac9)
 
+![Job Role Attrition Report2](https://github.com/user-attachments/assets/1edd6393-09e5-429a-86f8-2e6944171cc8)
+
+![Performance Attrition Report3](https://github.com/user-attachments/assets/b233ee92-1408-4e59-905f-b6a64f69594f)
+
+![Promotion and Attrition Report4](https://github.com/user-attachments/assets/b25d510f-f8a1-44cb-ab44-8bdde25df0e0)
+
+![Total Emp by Dept Tooltip](https://github.com/user-attachments/assets/c9e7b418-d093-4aed-84b0-e81c57e5a2fb)
 
 •	Attrition by Departments → Highest attrition in Research & Development
 
@@ -97,7 +104,6 @@ ________________________________________
 •	Attrition by Distance to Work → Employees living farther from the workplace have a higher attrition rate
 
 •	Attrition by Job Roles, Age, and Education → Younger employees and certain job roles show higher attrition rates
-
 
 •	Attrition by Overtime and Work-Life Balance → Employees with frequent overtime and poor work-life balance tend to leave more
 
