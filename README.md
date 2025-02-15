@@ -4,14 +4,19 @@ This project analyzes employee attrition trends within an organization using Pow
 ________________________________________
 # Project Objectives:
 ✅ Identify key drivers of attrition (departments, gender, job roles, etc.).
+
 ✅ Develop a star schema for efficient data modeling.
+
 ✅ Create meaningful KPIs and measures (Attrition %, Total Employees, etc.).
+
 ✅ Build interactive dashboards to explore attrition trends.
+
 ✅ Provide actionable recommendations to reduce attrition.
+
 ________________________________________
 # Dataset Description:
 The dataset consists of employee records with attributes related to demographics, job roles, performance, and compensation.
-Key Features:
+# Key Features:
 •	Employee Information → Employee Number, Gender, Job Level, Job Role
 •	Department Details → Department, Promotion Status
 •	Job Status → Distance from Home, Business Travel
@@ -20,14 +25,14 @@ Key Features:
 •	Attrition Indicator → Whether the employee left the company
 ________________________________________
 # Data Preparation & Modeling:
-Data Cleaning:
+# Data Cleaning:
 •	Removed duplicate or inconsistent records.
 •	Created conditional columns for categorization.
 •	Standardized missing or incorrect values.
 # Star Schema Design:
-Fact Table: Fact_Attrition
+# Fact Table: Fact_Attrition
 Contains the key measures related to attrition, including employee ID, department ID, job role ID, and performance ID.
-Dimension Tables:
+# Dimension Tables:
 •	Dim_Employees (EmpNum, Gender, Job Level, Job Role, etc.)
 •	Dim_EmpDepartments (DeptID, Department, Promotion Status)
 •	Dim_EmpJobStatus (Distance from Home, Business Travel)
